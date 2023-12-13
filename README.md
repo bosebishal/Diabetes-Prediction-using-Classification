@@ -17,4 +17,4 @@ Objective:
 The objective of this project is to predict whether or not a patient is suffering from Diabetes. The dataset consists of several independent/ predictor variables and a dependent/ target variable.
 
 Models Used:
-Logistic Regression for binary classification,Knn Algorithm,Naive Bayes,Decision Tree,Random Forest,Ada Boost
+Logistic Regression for binary classification,Knn Algorithm,Naive Bayes,Decision Tree,Random Forest
